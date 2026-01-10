@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Syncing Strapi Collections Across Environments"
+title: "Syncing Strapi V5 Contet Across Environments"
 date: 2026-01-07 23:33:54 +0530
 categories: strapi
 ---
