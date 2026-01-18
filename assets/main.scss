@@ -1,0 +1,23 @@
+---
+---
+@import "minima";
+
+// Force social links to stay on the same line as icons
+.social-media-list li {
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.social-media-list li a {
+  display: inline-flex;
+  align-items: center;
+}
+
+.social-media-list .icon {
+  margin-right: 8px; /* Adds a small gap between icon and text */
+}
+
+footer .footer-heading {
+  display: none;
+}
